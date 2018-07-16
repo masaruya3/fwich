@@ -1,0 +1,51 @@
+{
+  "fitbit": {
+    "appUUID": "847c1a6f-54b9-46e6-a952-97877919d9d6",
+    "appType": "app",
+    "appDisplayName": "fwich",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#e91e63",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "meson",
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "fwich"
+      },
+      "de": {
+        "name": "fwich"
+      },
+      "es": {
+        "name": "fwich"
+      },
+      "fr": {
+        "name": "fwich"
+      },
+      "it": {
+        "name": "fwich"
+      },
+      "ja": {
+        "name": "fwich"
+      },
+      "ko": {
+        "name": "fwich"
+      },
+      "nl": {
+        "name": "fwich"
+      },
+      "sv": {
+        "name": "fwich"
+      },
+      "zh-cn": {
+        "name": "fwich"
+      },
+      "zh-tw": {
+        "name": "fwich"
+      }
+    }
+  }
+}
